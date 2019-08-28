@@ -1,0 +1,3 @@
+source $ZSH_ROOT/plugin/antigen.zsh
+
+antigen bundle zsh-users/zsh-autosuggestions
