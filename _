@@ -1,5 +1,0 @@
-export ZSH_ROOT=~/.zsh
-
-source $ZSH_ROOT/path/_
-source $ZSH_ROOT/plugin/_
-source $ZSH_ROOT/alias/_
