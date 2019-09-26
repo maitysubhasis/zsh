@@ -4,5 +4,5 @@ function change_java_home () {
 }
 
 alias j8="change_java_home 1.8"
-alias j11="change_java_home 1"
+alias j11="change_java_home 11"
 alias jv="java -version"
