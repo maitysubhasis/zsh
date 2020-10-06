@@ -29,3 +29,5 @@ export PATH="$PATH:/usr/local/opt/postgresql@9.4/bin"
 export LDFLAGS="-L/usr/local/opt/openssl@1.1/lib:$LDFLAGS"
 export CPPFLAGS="-I/usr/local/opt/openssl@1.1/include:$CPPFLAGS"
 export PATH="/usr/local/opt/openssl@1.1/bin:$PATH"
+
+export PATH=$PATH:/usr/local/sbin
